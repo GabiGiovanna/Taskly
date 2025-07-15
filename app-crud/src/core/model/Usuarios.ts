@@ -1,6 +1,6 @@
 export interface Usuario {
-  id: String;
-  email: String;
-  nome: String;
+  id: string;
+  email: string;
+  nome: string;
   senha: string;
 }
