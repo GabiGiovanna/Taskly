@@ -1,9 +1,10 @@
 import Pagina from "@/app/components/template/Pagina";
+import ListaUsuario from "@/app/components/usuario/ListaUsuario";
 
 export default function Page() {
   return (
     <Pagina>
-      <h1>Usuários</h1>
+      <ListaUsuario />
     </Pagina>
   );
 }

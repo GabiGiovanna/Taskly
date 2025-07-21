@@ -33,8 +33,8 @@ const usuarios: Usuario[] = [
   },
   {
     id: "6",
-    email: "luiza@empresa.com.br",
-    nome: "Luiza",
+    email: "ana@empresa.com.br",
+    nome: "Ana",
     senha: "123456",
   },
 ];
